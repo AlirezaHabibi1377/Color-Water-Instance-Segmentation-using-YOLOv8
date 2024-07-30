@@ -25,7 +25,7 @@ The model is pre-trained on the COCO dataset, a large-scale object detection, se
 
 The model was trained with the following hyperparameters:
 - **Epochs**: 10 (It is recommended to train with more epochs for better accuracy)
-- 
+  
 ## Usage
 
 1. Clone the repository:
