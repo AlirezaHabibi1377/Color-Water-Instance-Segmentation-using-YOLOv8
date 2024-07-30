@@ -30,8 +30,7 @@ The model was trained with the following hyperparameters:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/AlirezaHabibi1377/Color-Water-Instance-Segmentation-using-YOLOv8.git
     ```
 
 2. Download the dataset from [Roboflow](https://universe.roboflow.com/gilang-dwi-aprianto-eegin/color-water) and place it in the appropriate directory.
