@@ -35,6 +35,20 @@ The model was trained with the following hyperparameters:
 
 2. Download the dataset from [Roboflow](https://universe.roboflow.com/gilang-dwi-aprianto-eegin/color-water) and place it in the appropriate directory.
 
+# Outputs
+
+- **yoloV8S:**
+![Output Image](dog.jpeg)
+
+- **yoloV8X:**
+![Output Image](dogH.jpeg)
+
+- **yoloV8S:**
+![Output Image](S1.JPG)
+![Output Image](S2.JPG)
+![Output Image](S3.JPG)
+![Output Image](S4.JPG)
+
 ## Conclusion
 
 This project demonstrates how to use YOLOv8 for instance segmentation of images in the Color Water dataset. The trained model can help in identifying and segmenting different colors of water in images, which can be useful for various computer vision applications.
