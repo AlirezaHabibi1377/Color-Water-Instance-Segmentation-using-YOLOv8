@@ -37,20 +37,17 @@ The model was trained with the following hyperparameters:
 
 # Outputs
 
-YoloV8S:
-![Output Image](dog.jpeg)
+## YOLOv8S
 
-YoloV8X:
-![Output Image](dogH.jpeg)
+![YOLOv8S Output](dog.jpeg)
+![YOLOv8S Output](S1.jpg)
+![YOLOv8S Output](S2.jpg)
+![YOLOv8S Output](S3.jpg)
+![YOLOv8S Output](S4.jpg)
 
-YoloV8S:
-![Output Image](S1.jpg)
+## YOLOv8X
 
-![Output Image](S2.jpg)
-
-![Output Image](S3.jpg)
-
-![Output Image](S4.jpg)
+![YOLOv8X Output](dogH.jpeg)
 
 ## Conclusion
 
